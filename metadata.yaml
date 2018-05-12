@@ -1,0 +1,30 @@
+_repo: The-Empty-Sleeveor-The-Life-and-Hardships-of-Henry-H.-Meacham-in-the-Union-Army_35578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meacham, Henry H.
+    birthdate: 1834
+    deathdate: 1879
+    gutenberg_agent_id: '37764'
+    url: http://www.gutenberg.org/2009/agents/37764
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35578'
+  lccn: 02017908
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: 'The Empty Sleeve
+
+  or, The Life and Hardships of Henry H. Meacham, in the Union Army'
+url: http://www.gutenberg.org/ebooks/35578
